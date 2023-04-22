@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwam Kapadia</h1>
+<h1 align="center">Hi , I'm Vishwam Kapadia</h1>
 <h3 align="center">A passionate developer student!</h3>
 
 <img align="right" alt="programming" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
